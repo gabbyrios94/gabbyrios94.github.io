@@ -1,0 +1,13 @@
+body{
+    float:right;
+}
+h1{
+    border: 10px solid black;
+}
+.red{
+    padding:20px;
+}
+.blue{
+    margin-left: 20px;
+    border: 1px dotted pink;
+}

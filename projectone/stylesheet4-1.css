@@ -1,0 +1,29 @@
+h1{
+    font-style:oblique;
+    font-family:cursive;
+    color:darkmagenta;
+}
+h3{
+    font-size: 20px;
+    color:firebrick;
+}
+h6{
+    font-size: 8px;
+    font-style:italic;
+}
+.green{
+    font-size: 25px;
+    font-weight: 700
+}
+.red{
+    border: 3px dotted blue;
+    color:crimson
+}
+.blue{
+    color: blue;
+    border: 3px dashed red;
+}
+.black{
+    font-size: 25px;
+    font-weight:700
+}

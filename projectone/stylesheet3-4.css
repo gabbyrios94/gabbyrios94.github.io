@@ -1,0 +1,12 @@
+*{
+    padding: 20px;
+}
+h3{
+    border: 2px dotted purple;
+}
+.red{
+    border: 1px dashed green;
+}
+.blue{
+    float:right
+}
