@@ -1,0 +1,25 @@
+div{
+    background-color:beige;
+    margin: inherit;
+    border: 1px red dotted;
+    padding: 20px;
+    position: sticky;
+}
+
+p{
+    float:right;
+    border: 2px purple dashed;
+    background-color:burlywood;
+}
+h2{
+    color:chocolate;
+    margin:auto;
+    
+}
+h3{
+    color:brown;
+    font-family:monospace;
+}
+h4{
+    position: static;
+}

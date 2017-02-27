@@ -1,0 +1,31 @@
+div{
+    border: 3px purple dotted;
+    position:relative;
+    background-color: darkmagenta    
+}
+
+h1{
+    font-family: fantasy;
+    color: crimson;
+    font-size: 15px;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: cornsilk
+}
+ 
+h3{
+    font-family:cursive;
+    font-size: 22px;
+    color: floralwhite
+}
+.red{
+    color: cadetblue;
+    background-color: crimson;
+}
+.blue{
+    color: chartreuse;
+    background-color: chocolate;
+}
