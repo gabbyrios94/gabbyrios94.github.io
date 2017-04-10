@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+/* Universal Reset */
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+
+}
+
+/* Gloabal Styles */
+
+body{
+    font-family: 'Lato';
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.4em;
+    color: rgb (48,51,56);
+}
+
+img{
+    width: 100%;
+}
+
+/* Typography */
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Lato';
+    color:blue; 
+}
+
+.content h2{
+    margin-bottom: .5em;
+    color:brown;
+    text-transform: lowercase;
+    letter-spacing: 10px;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+     transition: all .5s ease;
+          -webkit-transition: all .5s ease;
+}
+
+/* Header */
+
+header{
+    width: 100%;
+    padding: 20px;
+}
+
+nav.mainnav ul{
+    list-style: none;
+    padding: 14px 0px 0px;
+}
+
+.mainnav ul li{
+    display: inline-block;
+    margin: 0px 16px 0px 0px;
+    
+}
+
+/* General Layout */
+.content {
+    padding: 20px;
+    max-width: 640px;
+}
+
+
